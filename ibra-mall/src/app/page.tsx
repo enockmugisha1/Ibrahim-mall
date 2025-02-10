@@ -79,6 +79,31 @@ export default function Home() {
             </span>
           </div>
         </section>
+        <section>
+          <h1>Fashion Apparel</h1>
+          <span>
+            Trendy Clothes: A wide range of stylish apparel for both men and
+            women, featuring the latest fashion trends for casual and formal
+            occasions.
+          </span>
+          <span>
+            Casual Wear: Comfortable yet fashionable pieces perfect for everyday
+            wear, including t-shirts, jeans, and sneakers.
+          </span>
+          <span>
+            Formal Outfits: Elegant dresses, suits, and blouses for professional
+            settings or special events.
+          </span>
+          <span>
+            Accessories: Complement your look with trendy accessories such as
+            hats, scarves, watches, and jewelry to add a touch of
+            sophistication.
+          </span>
+          <span>
+            Footwear: A variety of shoes, from casual sneakers to formal dress
+            shoes, designed for both comfort and style.
+          </span>
+        </section>
       </div>
     </main>
   );
