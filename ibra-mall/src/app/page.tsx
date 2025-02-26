@@ -1,18 +1,10 @@
+'use client'
 import Image from "next/image";
 
 export default function Home() {
   return (
     <main className="w-full">
-      <nav className="bg-gray-800 text-white p-4">
-        <div className="container flex justify-between items-center">
-          <h1>IbraMall</h1>
-          <ul>
-            <li className="inline-block mx-2">Home</li>
-            <li className="inline-block mx-2">About</li>
-            <li className="inline-block mx-2">Contact</li>
-          </ul>
-        </div>
-      </nav>
+    
       <div className="p-5">
         <section>
           <h1 className="text-center font-bold text-[30px] text-pink-500">
@@ -109,11 +101,7 @@ export default function Home() {
           </div>
         </section>
       </div>
-      <footer className="w-full text-center bg-gray-800 text-white p-3" >
-        <span>
-          <p>&copy; All Rights reserved</p>
-        </span>
-      </footer>
+     
     </main>
   );
 }
